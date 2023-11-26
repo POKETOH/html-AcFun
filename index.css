@@ -1,8 +1,13 @@
 * {
     padding: 0;
-    margin: 0;
+    margin: 0 ;
+    
 }
-
+body{
+    width: 1920px;
+    margin: 0 auto;
+    zoom: 3;
+}
 .app {
     align-items: center;
     height: 61px;
